@@ -1,3 +1,4 @@
 # buildspace 
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+This is the code for my web app that utilized OpenAI to generate an overview of a study including the study 
+process and job opportunity. 
